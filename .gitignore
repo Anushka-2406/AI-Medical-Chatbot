@@ -1,10 +1,11 @@
 venv/
-.env
-*.pdf
-*.db
-*.sqlite3
 my_chroma_db_files1/
-__pycache__/
-.ipynb_checkpoints/
+*.sqlite3
+*.db
 *.dylib
 *.so
+*.pdf
+__pycache__/
+.ipynb_checkpoints/
+.env
+
